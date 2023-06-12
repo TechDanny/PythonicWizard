@@ -9,9 +9,9 @@ while command != "quit":
         print("The program has been terminated")
     elif command == "help":
         print("""
-        1. start: starting engine
-        2. stop: engine
-        3. quit: to exit
+1. start: starting engine
+2. stop: engine
+3. quit: to exit
          """)
     else:
         print("Invalid")
